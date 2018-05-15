@@ -34,6 +34,7 @@
             this.btExercicio03 = new System.Windows.Forms.Button();
             this.btExercicio04 = new System.Windows.Forms.Button();
             this.btExercicio05 = new System.Windows.Forms.Button();
+            this.btExercicio06 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btExercicio01
@@ -96,11 +97,22 @@
             this.btExercicio05.UseVisualStyleBackColor = true;
             this.btExercicio05.Click += new System.EventHandler(this.btExercicio05_Click);
             // 
+            // btExercicio06
+            // 
+            this.btExercicio06.Location = new System.Drawing.Point(494, 58);
+            this.btExercicio06.Name = "btExercicio06";
+            this.btExercicio06.Size = new System.Drawing.Size(84, 29);
+            this.btExercicio06.TabIndex = 7;
+            this.btExercicio06.Text = "Exercicio06";
+            this.btExercicio06.UseVisualStyleBackColor = true;
+            this.btExercicio06.Click += new System.EventHandler(this.btExercicio06_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(729, 261);
+            this.Controls.Add(this.btExercicio06);
             this.Controls.Add(this.btExercicio05);
             this.Controls.Add(this.btExercicio04);
             this.Controls.Add(this.btExercicio03);
@@ -123,6 +135,7 @@
         private System.Windows.Forms.Button btExercicio03;
         private System.Windows.Forms.Button btExercicio04;
         private System.Windows.Forms.Button btExercicio05;
+        private System.Windows.Forms.Button btExercicio06;
     }
 }
 

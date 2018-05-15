@@ -51,5 +51,11 @@ namespace ExercicioLista2WFA
             Exercicio05 exercicio05 = new Exercicio05();
             exercicio05.Show();
         }
+
+        private void btExercicio06_Click(object sender, EventArgs e)
+        {
+            Exercicio06 exercicio06 = new Exercicio06();
+            exercicio06.Show();
+        }
     }
 }
