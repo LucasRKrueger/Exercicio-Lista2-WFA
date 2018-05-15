@@ -1,0 +1,14 @@
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\bin\Debug\ExercicioLista2WFA.exe.config
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\bin\Debug\ExercicioLista2WFA.exe
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\bin\Debug\ExercicioLista2WFA.pdb
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.csprojResolveAssemblyReference.cache
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.Form1.resources
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.Properties.Resources.resources
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.csproj.GenerateResource.Cache
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.exe
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.pdb
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.Exercicio01.resources
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.Exercicio02.resources
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.Exercicio03.resources
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.Exercicio04.resources
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.Exercicio05.resources
