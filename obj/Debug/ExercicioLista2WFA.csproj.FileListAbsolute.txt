@@ -13,3 +13,7 @@ C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\Exercic
 C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.Exercicio04.resources
 C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.Exercicio05.resources
 C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.Exercicio06.resources
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.Exercicio07.resources
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.Exercicio08.resources
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.Exercicio09.resources
+C:\Users\100314\Documents\GitHub\Exercicio-lista2-WFA\ExercicioLista2WFA\ExercicioLista2WFA\obj\Debug\ExercicioLista2WFA.Exercicio10.resources

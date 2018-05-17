@@ -57,5 +57,28 @@ namespace ExercicioLista2WFA
             Exercicio06 exercicio06 = new Exercicio06();
             exercicio06.Show();
         }
+
+        private void btExercicio07_Click(object sender, EventArgs e)
+        {
+            Exercicio07 exercicio07 = new Exercicio07();
+            exercicio07.Show();
+        }
+
+        private void btExercicio08_Click(object sender, EventArgs e)
+        {
+            Exercicio08 exercicio08 = new Exercicio08();
+            exercicio08.Show();
+        }
+
+        private void btExercicio09_Click(object sender, EventArgs e)
+        {
+            Exercicio09 exercicio07 = new Exercicio09();
+            exercicio07.Show();
+        }
+
+        private void btExercicio10_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
